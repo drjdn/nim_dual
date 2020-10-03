@@ -3,7 +3,7 @@ Dual Numbers Library
 
 This repository contains a dual number implemention in
 [Nim](https://nim-lang.org).  See the API
-[documentation](https://github.com/drjdn/nim_dual/blob/master/dual.rst) for
+[documentation](https://nimble.directory/docs/dual//dual/dual.html) for
 more information.  It hasn't been super well tested as I haven't used it
 extensively and hence the 0.1.0 designation.  There isn't much to it however and
 outside of typos it should function as intended.  Please submit issues if you
