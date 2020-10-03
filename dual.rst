@@ -5,59 +5,6 @@
 
       .. container:: row
 
-         .. container:: three columns
-
-            .. container::
-
-               Group by: Section Type
-
-            -  `Types <#7>`__
-
-               -  `Dual <#Dual>`__
-               -  `Dual64 <#Dual64>`__
-               -  `Dual32 <#Dual32>`__
-
-            -  `Procs <#12>`__
-
-               -  `dualDual <#dual%2CT%2CT>`__
-               -  `dual32Dual <#dual32%2Cfloat32%2Cfloat32>`__
-               -  `dual64Dual <#dual64%2Cfloat64%2Cfloat64>`__
-               -  `invDual <#inv%2CDual%5BT%5D>`__
-               -  `\`==\`Dual <#%3D%3D%2CDual%5BT%5D%2CDual%5BT%5D>`__
-               -  `\`+\`Dual <#%2B%2CT%2CDual%5BT%5D>`__
-               -  `\`+\`Dual <#%2B%2CDual%5BT%5D%2CT>`__
-               -  `\`+\`Dual <#%2B%2CDual%5BT%5D%2CDual%5BT%5D>`__
-               -  `\`-\`Dual <#-%2CDual%5BT%5D>`__
-               -  `\`-\`Dual <#-%2CT%2CDual%5BT%5D>`__
-               -  `\`-\`Dual <#-%2CDual%5BT%5D%2CT>`__
-               -  `\`-\`Dual <#-%2CDual%5BT%5D%2CDual%5BT%5D>`__
-               -  `\`/\`Dual <#%2F%2CDual%5BT%5D%2CT>`__
-               -  `\`/\`Dual <#%2F%2CT%2CDual%5BT%5D>`__
-               -  `\`/\`Dual <#%2F%2CDual%5BT%5D%2CDual%5BT%5D>`__
-               -  `\`*\`Dual <#%2A%2CT%2CDual%5BT%5D>`__
-               -  `\`*\`Dual <#%2A%2CDual%5BT%5D%2CT>`__
-               -  `\`*\`Dual <#%2A%2CDual%5BT%5D%2CDual%5BT%5D>`__
-               -  `\`+=\`Dual <#%2B%3D%2CDual%5BT%5D%2CDual%5BT%5D>`__
-               -  `\`-=\`Dual <#-%3D%2CDual%5BT%5D%2CDual%5BT%5D>`__
-               -  `\`*=\`Dual <#%2A%3D%2CDual%5BT%5D%2CDual%5BT%5D>`__
-               -  `\`/=\`Dual <#%2F%3D%2CDual%5BT%5D%2CDual%5BT%5D>`__
-               -  `\`$\`Dual <#%24%2CDual>`__
-               -  `powDual <#pow%2CDual%5BT%5D%2CT>`__
-               -  `powDual <#pow%2CDual%5BT%5D%2CDual%5BT%5D>`__
-               -  `sqrtDual <#sqrt%2CDual%5BT%5D>`__
-               -  `expDual <#exp%2CDual%5BT%5D>`__
-               -  `lnDual <#ln%2CDual%5BT%5D>`__
-               -  `sinDual <#sin%2CDual%5BT%5D>`__
-               -  `cosDual <#cos%2CDual%5BT%5D>`__
-               -  `tanDual <#tan%2CDual%5BT%5D>`__
-               -  `arcsinDual <#arcsin%2CDual%5BT%5D>`__
-               -  `arccosDual <#arccos%2CDual%5BT%5D>`__
-               -  `arctanDual <#arctan%2CDual%5BT%5D>`__
-               -  `sinhDual <#sinh%2CDual%5BT%5D>`__
-               -  `coshDual <#cosh%2CDual%5BT%5D>`__
-               -  `tanhDual <#tanh%2CDual%5BT%5D>`__
-               -  `rootDual <#root%2CDual%5BT%5D%2Cproc%28Dual%5BT%5D%29>`__
-
          .. container:: nine columns
             :name: content
 
