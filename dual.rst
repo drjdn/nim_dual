@@ -45,12 +45,12 @@
                Create a dual number.
                ::
 
-                  proc dual32(re: float32; dre: float32 = 1.0): Dual[float32] {...}{.raises: [], tags: [].}
+                  proc dual32(re: float32; dre: float32 = 1.0): Dual[float32] 
 
                Create dual number (32 bit IEEE single precision float).
                ::
 
-                  proc dual64(re: float64; dre: float64 = 1.0): Dual[float64] {...}{.raises: [], tags: [].}
+                  proc dual64(re: float64; dre: float64 = 1.0): Dual[float64] 
 
                Create a dual number (64 bit IEEE double precision
                float).
