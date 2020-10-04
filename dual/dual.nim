@@ -116,7 +116,7 @@ proc `/=` *[T](x: var Dual[T], y: Dual[T]) =
   x = x / y
 
 proc `$` *(x: Dual): string =
-  ## Returns ``x``'s string representation as ``"(re, im)"``.
+  ## Returns ``x``'s string representation as ``"(re, dre)"``.
   result = "(" & $x.re & ", " & $x.dre & ")"
 
 proc pow*[T](x: Dual[T], y: T): Dual[T] =
